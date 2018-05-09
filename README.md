@@ -1,2 +1,5 @@
 # hello-world
-My first repository &lt;3
+
+Learnings are fun
+
+Tech tech tech
